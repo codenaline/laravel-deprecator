@@ -33,7 +33,7 @@ Simply annotate any controller method with @deprecated in its PHPDoc:
 /**
  * @deprecated This endpoint will be removed in v2.0. Use `newMethod()` instead.
  */
-public function deprecatedMethod()
+public function oldMethod()
 {
     // ...
 }
