@@ -1,6 +1,6 @@
-# Laravel Deprecated Detector
+# Laravel Deprecator
 
-Laravel Deprecated Detector is a lightweight middleware package that automatically scans controller methods for `@deprecated` annotations in their PHPDoc and adds an `X-Deprecated` header to the HTTP response. This helps frontend clients and API consumers identify deprecated endpoints and adjust accordingly.
+Laravel Deprecator is a lightweight middleware package that automatically scans controller methods for `@deprecated` annotations in their PHPDoc and adds an `X-Deprecated` header to the HTTP response. This helps frontend clients and API consumers identify deprecated endpoints and adjust accordingly.
 
 ## 🚀 Features
 
